@@ -15,5 +15,10 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.3.21",
+    "apollo-link-context": "^1.0.20",
+    "graphql": "^15.5.1"
   }
 }
